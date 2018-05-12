@@ -1,5 +1,8 @@
-
-
+/**
+ * @author : Raúl Serrano Sánchez
+ * @version :0.0.1,12/05/2018
+ *
+ */
 public class EjercicioRSS {
 
 
